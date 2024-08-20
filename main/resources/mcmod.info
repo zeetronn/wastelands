@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wastelands",
+  "name": "Wastelands",
+  "description": "An essential mod for the pack Wastelands.",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["zeetronn"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
